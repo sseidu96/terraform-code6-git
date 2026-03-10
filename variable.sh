@@ -6,6 +6,6 @@
 NAME="SAFIA"
 COLOR="BLUE"
 
-echo "Name : $NAME"
-echo "Favorite Color : $COLOR"
+echo "$NAME is hardworking"
+echo "$COLOR is her favourite color"
 echo "$NAME is a good girl"
